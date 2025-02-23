@@ -11,6 +11,8 @@ Good luck! 😎
 
 ## Task 1: Applying the Maximum Flow Algorithm for Logistics Optimization
 
+## [Solution](./task_01.md)
+
 Develop a program to model a product flow network from warehouses to stores using the maximum flow algorithm. Analyze the obtained results and compare them with theoretical knowledge.
 
 ### Task Description
@@ -78,6 +80,8 @@ Then, answer the following questions:
 ***
 
 ## Task 2: Performance Comparison of OOBTree and Dict for Range Queries
+
+## [Solution](./task_02.md)
 
 Develop a program to store a large dataset of products in two data structures—OOBTree and dict—and conduct a comparative performance analysis of their range query execution.
 
